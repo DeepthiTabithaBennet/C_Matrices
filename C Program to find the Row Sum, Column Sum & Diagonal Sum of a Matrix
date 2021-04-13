@@ -49,7 +49,7 @@ int main(){
 	for(rows = 0; rows < i; rows++){
 		sumDia = sumDia + a[rows][rows];
 	}
-	printf("Sum of Diagonal : %d", sumDia );
+	printf("Sum of Diagonal : %d", sumDia);
 		  
 	return 0;  
 }  
