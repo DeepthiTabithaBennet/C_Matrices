@@ -5,20 +5,20 @@ int main(){
 	
 	printf("Enter the number of Rows and Columns of the Matrix :\n");
 	scanf("%d %d", &rows, &cols);
-	int a[rows][cols],i,j;
+	int a[rows][cols], i, j;
 	
 	printf("Enter the Elements of the Matrix :\n");
-	for(i=0;i<rows;i++){
-		for(j=0;j<cols;j++){
-			scanf("%d",&a[i][j]);
+	for(i = 0; i < rows; i++){
+		for(j = 0; j < cols; j++){
+			scanf("%d", &a[i][j]);
 		}
 	}
 	
 	printf("\nInput Matrix:");
-	for(i=0;i<rows;i++){
+	for(i = 0; i < rows; i++){
 		printf("\n");
-		for(j=0;j<cols;j++){
-			printf("%d \t",a[i][j]);
+		for(j = 0; j < cols; j++){
+			printf("%d \t", a[i][j]);
 		}
 	}
 	printf("\n\n");
