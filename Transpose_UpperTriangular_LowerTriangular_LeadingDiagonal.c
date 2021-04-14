@@ -38,10 +38,10 @@ int main(){
 	}
 
 	case 2:{
-		if(a[0][1]==0 && a[0][2]==0 && a[1][2]==0)
+		if(a[0][1] == 0 && a[0][2] == 0 && a[1][2] == 0)
 			printf("\nLower Triangular Matrix");
 
-		else if (a[1][0]==0 && a[2][0]==0 && a[2][1]==0)
+		else if (a[1][0] == 0 && a[2][0] == 0 && a[2][1] == 0)
 			printf("\nUpper Triangular Matrix");
 
 		else 
