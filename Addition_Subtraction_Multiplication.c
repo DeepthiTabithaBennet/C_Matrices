@@ -5,6 +5,7 @@ int main(){
   
 	printf("NOTE :\n* For Addition or Subtraction, the two matrices must have the same order \n* For Multiplication, the number of Columns of the first matrix must be equal to the number of Rows of the second matrix\n\n");
 	  
+	
 	 printf("\nEnter the no. of Rows of the first matrix : \n");
 	 scanf("%d", &m);
 	 printf("Enter the no. of Columns of the first matrix : \n");
