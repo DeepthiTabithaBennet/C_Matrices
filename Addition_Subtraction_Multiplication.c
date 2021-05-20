@@ -70,12 +70,12 @@ int main(){
 	 	}
 	
 		case 2: /*Multiplication*/{
-			if(n!=e){
+			if(n != e){
 			    printf("\n\nThe matrices cannot be multiplied");
 				break;
 			}
 			int k;
-			printf("\n\nThe resultant matrices is : \n");
+			printf("\n\nThe resultant matrix is : \n");
 
 			for(i = 0; i < m; i++){
 				for(j = 0; j < f; j++){
