@@ -70,9 +70,8 @@ int main(){
 	 	}
 	
 		case 2: /*Multiplication*/{
-			if(n!=e)
-			{
-			  printf("\n\nThe matrices cannot be multiplied");
+			if(n!=e){
+			    printf("\n\nThe matrices cannot be multiplied");
 				break;
 			}
 			int k;
