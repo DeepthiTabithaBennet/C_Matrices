@@ -1,6 +1,6 @@
 ## C_Matrices
 
-## Please leave a 🌟 before you fork / clone this repo! 😃
+### Please leave a 🌟 before you fork / clone this repo! 😃
 
 ### Language : C
 
