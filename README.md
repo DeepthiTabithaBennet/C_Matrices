@@ -1,8 +1,9 @@
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=white">
+
+
 ## C_Matrices
 
 ### Please leave a 🌟 before you fork / clone this repo! 😃
-
-### Language : C
 
 ### List of Programs :
 * Addition, Subtraction & Multiplication of two input Matrices
